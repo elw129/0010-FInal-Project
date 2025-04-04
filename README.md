@@ -10,7 +10,7 @@ Determining the Best Neighborhood of Pittsburgh by looking at bestness as a func
 # Datasets
 1. Fire Incidents in the City of Pittsburgh (Elese Marie Zukina)
 - Metric: Fire safety, amount of alarms rang per neighborhood
-- Link: [https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh](Fire Incidents Dataset)
+- Link: [Fire Incidents Dataset](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh))
 
 2. Title (Name)
 - Metric:
