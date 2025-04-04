@@ -4,7 +4,7 @@ Group Members:
 - Zillin Wang | ziw143@pitt.edu
 - Elese Marie Zukina | emz62@pitt.edu
 
-# Overview 
+# Description 
 Determining the Best Neighborhood of Pittsburgh by looking at bestness as a function of overall safety.
 
 # Datasets
@@ -19,3 +19,6 @@ Determining the Best Neighborhood of Pittsburgh by looking at bestness as a func
 3. Title (Name)
   - Metric:
   - Link:
+
+# Overview
+This repository determines the best neighborhood in Pittsburgh by analyzing fire safety, arrest data, and age of death metrics using datasets from WPRDC.
