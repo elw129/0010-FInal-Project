@@ -14,7 +14,7 @@ Determining the Best Neighborhood of Pittsburgh by looking at bestness as a func
 
 2. Allegheny County Median Age at Death
   - Metric: Median age of death by neighborhood
-  - Link: [Alleheny Median Age at Death by Neighborhood]https://data.wprdc.org/dataset/median-age-death
+  - Link: [Alleheny Median Age at Death by Neighborhood](https://data.wprdc.org/dataset/median-age-death)
 
 3. Title (Name)
   - Metric:
