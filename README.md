@@ -2,8 +2,8 @@
 Group Members: 
 - Eli Worley | elw129@pitt.edu
 - Zillin Wang | ziw143@pitt.edu
-- Elese Marie Zukina | emz62@pitt.edu
-<br>Canvas Group:
+- Elese Marie Zukina | emz62@pitt.edu  
+Canvas Group:
 - Final Project Group 20
 
 # Description 
