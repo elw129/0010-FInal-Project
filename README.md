@@ -12,11 +12,11 @@ Determining the Best Neighborhood of Pittsburgh by looking at bestness as a func
   - Metric: Fire safety, amount of alarms rang per neighborhood
   - Link: [Fire Incidents Dataset](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh)
 
-2. Allegheny County Median Age at Death
+2. Allegheny County Median Age at Death (Eli Worley)
   - Metric: Median age of death by neighborhood
   - Link: [Alleheny Median Age at Death by Neighborhood](https://data.wprdc.org/dataset/median-age-death)
 
-3. Title (Name)
+3. Title (Zillin Wang)
   - Metric:
   - Link:
 
