@@ -3,8 +3,7 @@ Group Members:
 - Eli Worley | elw129@pitt.edu
 - Zillin Wang | ziw143@pitt.edu
 - Elese Marie Zukina | emz62@pitt.edu  
-Canvas Group:
-- Final Project Group 20
+Canvas Group: Final Project Group 20
 
 # Description 
 Determining the Best Neighborhood of Pittsburgh by looking at bestness as a function of overall safety.
