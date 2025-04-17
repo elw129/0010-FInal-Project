@@ -19,8 +19,8 @@ Determining the Best Neighborhood of Pittsburgh by looking at bestness as a func
   - Link: [Alleheny Median Age at Death by Neighborhood](https://data.wprdc.org/dataset/median-age-death)
 
 3. Title (Zillin Wang)
-  - Metric:
-  - Link:
+  - Metric: Arrests per 1000 people (population based rate)
+  - Link: [Pittsburgh Police Arrest Data] https://data.wprdc.org/dataset/arrest-data
 
 # Overview
 This repository determines the best neighborhood in Pittsburgh by analyzing fire safety, arrest data, and age of death metrics using datasets from WPRDC.
