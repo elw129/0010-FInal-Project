@@ -20,7 +20,7 @@ Determining the Best Neighborhood of Pittsburgh by looking at bestness as a func
 
 3. Arrests Data in City of Pittsburgh (Zilin Wang)
   - Metric: Arrests per 1000 people (population based rate)
-  - Link: [Pittsburgh Police Arrest Data] https://data.wprdc.org/dataset/arrest-data
+  - Link: [Pittsburgh Police Arrest Data](https://data.wprdc.org/dataset/arrest-data)
 
 # Overview
 This repository determines the best neighborhood in Pittsburgh by analyzing fire safety, arrest data, and age of death metrics using datasets from WPRDC.
